@@ -46,4 +46,4 @@ Prepare raw Titanic passenger data for modeling by performing essential preproce
 
 ## 📊 Dataset
 
-Dataset: [Kaggle Titanic: Machine Learning from Disaster]([https://www.kaggle.com/c/titanic/data](https://www.kaggle.com/datasets/yasserh/titanic-dataset/data))
+Dataset: [Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset/data)
