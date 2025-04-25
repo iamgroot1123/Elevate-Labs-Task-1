@@ -42,6 +42,7 @@ Prepare raw Titanic passenger data for modeling by performing essential preproce
 ## 📁 Files
 
 - `task1.ipynb` - Notebook containing all preprocessing code
+- `titanic_cleaned.csv` - Preprocessed dataset saved for modeling
 - `README.md` - This documentation
 
 ## 📊 Dataset
